@@ -17,4 +17,3 @@ class Solution:
 ip1 = str(input())
 ip2 = str(input())
 print(Solution.GCDofStrings(ip1, ip2)) 
-
