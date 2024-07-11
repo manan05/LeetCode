@@ -2,19 +2,20 @@
 
 // Company: Amazon
 
-import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class CandiesKids {
-    public static Boolean[] candiesKids(int[] candies, int extraCandies){
+    public static List<Boolean> candiesKids(int[] candies, int extraCandies){
         int maxNum = maxArray(candies);
-        Boolean[] res = new Boolean[candies.length];
+        List<Boolean> res = new ArrayList<>();
         for(int i = 0; i< candies.length;i++){
             if(candies[i] + extraCandies >= maxNum){
-                res[i] = true;
+                res.add(true);
             }
             else{
-                res[i] = false;
+                res.add(false);
             }
         }
         return res;
@@ -40,6 +41,6 @@ public class CandiesKids {
         }
         System.out.println("ExtraCandies:");
         int extraCandies = scn.nextInt();
-        System.out.println(Arrays.toString(candiesKids(candies, extraCandies)));
+        System.out.println((candiesKids(candies, extraCandies)));
     }
 }
