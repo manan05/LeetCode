@@ -1,13 +1,34 @@
-name: delete branch on close pr
-on: 
-  pull_request:
-    types: [closed]
-  
+name: Delete branch after merge
+
+on:
+  push:
+    branches:
+      - main
+
 jobs:
-  delete-branch:
+  delete_branch:
     runs-on: ubuntu-latest
+
     steps:
-      - name: delete branch
-        uses: SvanBoxel/delete-merged-branch@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Get merged branches
+        id: get_branches
+        run: |
+          git fetch origin +refs/heads/*:refs/remotes/origin/*
+          BRANCHES=$(git branch -r --merged origin/master | grep -v '\->' | grep -v 'origin/master' | sed 's/origin\///')
+          echo "::set-output name=branches::${BRANCHES}"
+
+      - name: Delete merged branches
+        if: steps.get_branches.outputs.branches != ''
+        run: |
+          for branch in $(echo "${{ steps.get_branches.outputs.branches }}"); do
+            echo "Deleting branch: $branch"
+            git push origin --delete $branch
+          done
