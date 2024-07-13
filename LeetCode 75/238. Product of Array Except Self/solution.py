@@ -32,10 +32,10 @@ class Solution:
         return ans
 
  
-a = [1,2,3,4]
-# n = int(input())
-# for i in range(n):
-#     a.append(int(input()))
+a = []
+n = int(input())
+for i in range(n):
+    a.append(int(input()))
 
 # print(Solution.productExceptSelfOn2(a))
 print(Solution.productExceptSelf(a))
