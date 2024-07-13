@@ -55,3 +55,5 @@ for i in range(n):
 # print(Solution.productExceptSelfOn2(a))
 # print(Solution.productExceptSelf(a))
 print(Solution.productExceptSelfOP(a))
+
+print(Solution.productExceptSelf(a))
