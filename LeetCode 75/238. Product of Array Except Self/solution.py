@@ -30,6 +30,21 @@ class Solution:
         for i in range(1,len(a)-1):
             ans[i] = pre[i-1] * post[i+1]
         return ans
+    
+    def productExceptSelfOP(a):
+        ans = [1 for x in a]
+        
+        pre = 1
+        for i in range(len(a)):
+            ans[i] *= pre
+            pre *= a[i]
+
+        post = 1
+        for j in range(len(a)-1, -1,-1):
+            ans[j] *= post
+            post *= a[j]
+
+        return ans
 
  
 a = []
@@ -38,4 +53,7 @@ for i in range(n):
     a.append(int(input()))
 
 # print(Solution.productExceptSelfOn2(a))
+# print(Solution.productExceptSelf(a))
+print(Solution.productExceptSelfOP(a))
+
 print(Solution.productExceptSelf(a))
