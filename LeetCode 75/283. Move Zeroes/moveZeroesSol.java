@@ -1,4 +1,8 @@
 
+// # Question Link:https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75
+
+// # Company:  Facebook ✯   Microsoft ✯   Apple ✯   Amazon ✯   Yandex ✯   Bloomberg   tcs   Uber   Adobe   IBM   Expedia   tiktok  
+
 public class moveZeroesSol {
 
     public static void moveZeroes(int[] arr) {

@@ -1,4 +1,6 @@
+// Question Link: https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75
 
+// Companies:  LinkedIn ✯   Facebook ✯   Amazon ✯   Bloomberg ✯   Yahoo ✯  
 import java.util.Scanner;
 
 public class CanPlaceFlowers {

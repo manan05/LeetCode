@@ -1,3 +1,8 @@
+// Question link: https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75
+
+// Company: Amazon, Facebook, Microsoft, Asana, Apple, Uber, Adobe, Bloomberg, Oracle
+// must write an algo that runs O(n) without division operation
+
 import java.util.Arrays;
 import java.util.Scanner;
 
