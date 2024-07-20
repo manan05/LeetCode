@@ -1,4 +1,5 @@
-
+// Question Link: https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75
+// Companies:  Expedia ✯   Amazon ✯   Microsoft ✯   Goldman Sachs ✯   Apple ✯   Facebook   Visa   Yandex   Redfin  
 import java.util.Scanner;
 
 public class stringCompression {

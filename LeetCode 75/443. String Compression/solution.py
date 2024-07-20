@@ -1,3 +1,7 @@
+# QuestionLink:  https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75
+
+# Companies: Expedia ✯   Amazon ✯   Microsoft ✯   Goldman Sachs ✯   Apple ✯   Facebook   Visa   Yandex   Redfin
+
 class Solution:
     def compress(self, chars: List[str]) -> int:
         s = ""
