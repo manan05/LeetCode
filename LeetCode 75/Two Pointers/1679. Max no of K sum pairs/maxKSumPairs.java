@@ -1,5 +1,7 @@
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 // Question link : https://leetcode.com/problems/max-number-of-k-sum-pairs/description/?envType=study-plan-v2&envId=leetcode-75
 // Companies: Amazon
@@ -25,6 +27,27 @@ public class maxKSumPairs {
             }
             else {
                 i ++;
+            }
+        }
+        return count;
+    }
+
+    public static int oNSolution(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        int count = 0;
+        for(int i = 0; i< nums.length; i++) {
+            int res = k - nums[i];
+            if(map.containsKey(res)) {
+                count ++;
+                if(map.get(res) == 1) {
+                    map.remove(res);
+                }
+                else{
+                    map.put(res, map.get(res) -1);
+                }
+            }
+            else {
+                map.put(nums[i], map.getOrDefault(nums[i], 0) +1);
             }
         }
         return count;
