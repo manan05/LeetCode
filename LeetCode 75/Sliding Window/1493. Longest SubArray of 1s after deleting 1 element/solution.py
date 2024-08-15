@@ -1,3 +1,7 @@
+# question link: https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/?envType=study-plan-v2&envId=leetcode-75
+
+# Companies:Yandex, Amazon
+
 class Solution:
     def longestSubarray(nums):
         i = 0
