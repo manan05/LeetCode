@@ -1,4 +1,5 @@
-
+# question Link: https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75
+# Companies:  Apple ✯   Incedo Inc. ✯   DE Shaw India ✯   Cisco ✯   Expedia ✯ 
 
 class Solution:
     def highestAltitude(gain):
