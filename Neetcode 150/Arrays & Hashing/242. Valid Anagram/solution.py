@@ -1,7 +1,6 @@
 class Solution:
     def isAnagram(s, t):
         dict = {}
-        count = 0
         for i in s:
             if(i not in dict):
                 dict[i] = 1
