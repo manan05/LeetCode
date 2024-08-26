@@ -1,12 +1,18 @@
+# There are 3 ways in which we can solve this problem, with 3 different time complexities
+
+# - 1st method is: 
+
 from collections import Counter
 
 class Solution:
-    def topKFrequent(nums, k):
-        dict= Counter(nums)
-        for i in dict.values():
-            print(i)
+    def topKFrequentNlogN(nums, k):
+        frequency = Counter(nums)
+        print(frequency)
+        sorted_list = sorted(frequency, key = frequency.get, reverse=True)
+        print(sorted_list)
+        return sorted_list[:k]
         
 
-nums = [1,1,1,2,2,3,4,4,4,4]
+nums = [1,1,1,2,2,3]
 k = 2
-print(Solution.topKFrequent(nums, k))
+print(Solution.topKFrequentNlogN(nums, k))
