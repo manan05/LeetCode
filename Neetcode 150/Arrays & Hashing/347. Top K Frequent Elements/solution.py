@@ -1,4 +1,3 @@
-
 # There are 3 ways in which we can solve this problem, with 3 different time complexities
 
 # - 1st method is: creating a counter called frequency and then sorting the frequency and key as frequency.get and reverse sort. then return using slicing
@@ -35,4 +34,5 @@ class Solution:
 nums = [1,1,1,2,2,3]
 k = 2
 # print(Solution.topKFrequentNlogN(nums, k))
+print(Solution.topKFrequentON(nums, k))
 print(Solution.topKFrequentON(nums, k))
