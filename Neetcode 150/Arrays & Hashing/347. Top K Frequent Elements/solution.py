@@ -35,3 +35,4 @@ nums = [1,1,1,2,2,3]
 k = 2
 # print(Solution.topKFrequentNlogN(nums, k))
 print(Solution.topKFrequentON(nums, k))
+print(Solution.topKFrequentON(nums, k))
