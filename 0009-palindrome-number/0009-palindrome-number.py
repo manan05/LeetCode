@@ -1,14 +1,12 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        # easy Solution
-        s = "" + str(x)
-        l = 0
-        r = len(s) - 1
-        # flag = 0
-        while(l<=r):
-            if (s[l] == s[r]):
-                l += 1
-                r -= 1
-            else:
-                return False
-        return True
+        revNum = 0
+        temp = x
+        while temp > 0:
+            q = temp%10
+            revNum = revNum*10 + q
+            temp = temp//10
+        if(revNum == x):
+            return True
+        else:
+            return False
