@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manan05/LeetCode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -24,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manan05/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
