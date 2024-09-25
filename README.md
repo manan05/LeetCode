@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/manan05/LeetCode/tree/master/0009-palindrome-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/manan05/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Array
 |  |
