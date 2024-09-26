@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/manan05/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manan05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manan05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
