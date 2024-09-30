@@ -1,11 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        min_price = float("infinity")
-        max_price = 0
-        for i in range(len(prices)):
-            if(prices[i] < min_price):
-                min_price = prices[i]
-            elif (prices[i] - min_price > max_price):
-                max_price = prices[i] - min_price
-        return max_price
-                
+        # 2 pointer approach
+        l, r = 0, 1 # L = buy, R= Sell
+        maxP = 0
+        while (r < len(prices)):
+            if(prices[l] < prices[r]):
+                profit = prices[r] - prices[l]
+                maxP = max(maxP, profit)
+                r += 1
+            else:
+                l = r # because here we find a price that is lower and maximizes the profit
+                r += 1
+        return maxP
