@@ -41,6 +41,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manan05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manan05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/manan05/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/manan05/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -86,4 +87,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/manan05/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
