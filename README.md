@@ -35,6 +35,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/manan05/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
+| [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/manan05/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Array
@@ -106,4 +107,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/manan05/LeetCode/tree/master/0136-single-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
