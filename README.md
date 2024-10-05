@@ -19,6 +19,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manan05/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
@@ -34,6 +35,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/manan05/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/manan05/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Array
 |  |
@@ -98,6 +100,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manan05/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bit Manipulation
 |  |
