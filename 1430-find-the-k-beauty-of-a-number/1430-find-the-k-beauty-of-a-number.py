@@ -5,7 +5,6 @@ class Solution:
         count = 0
         numStr = str(num)
         subNum = int(numStr[l:r])
-        print(subNum)
         if (num % subNum == 0):
             count += 1
         l += 1
@@ -14,7 +13,6 @@ class Solution:
             ss = int(numStr[l:r])
             if (ss != 0):
                 if (num % ss == 0):
-                    print("here")
                     count += 1
             r += 1
             l += 1
