@@ -6,12 +6,14 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        # hashset
-        nodes_visited = set()
-        curr = head
-        while curr is not None:
-            if curr in nodes_visited:
-                return True
-            nodes_visited.add(curr)
-            curr = curr.next
-        return False
+        # Empty LL
+        if head is None:
+            return False
+        slow = head
+        fast = head.next
+        while slow != fast:
+            if (fast is None or fast.next is None):
+                return False
+            slow = slow.next
+            fast = fast.next.next
+        return True
