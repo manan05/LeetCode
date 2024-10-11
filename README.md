@@ -85,6 +85,7 @@
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/manan05/LeetCode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Interactive
 |  |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/manan05/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
