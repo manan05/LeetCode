@@ -6,7 +6,6 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        # hashset part
         # h1 = headA
         # h2 = headB
         # hashset = set()
@@ -20,8 +19,6 @@ class Solution:
         #     hashset.add(h2)
         #     h2 = h2.next
         # return None
-
-        # without hashset
         h1 = headA
         h2 = headB
         while h1 != h2:
