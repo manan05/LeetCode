@@ -12,12 +12,11 @@ class Solution:
         #     j -= 1
         
         # recursively
-        def helper(i, j , s):
-            if(i < j):
-                s[i], s[j] = s[j], s[i]
-            else:
+        def helper(i, j, s):
+            if (i >= j):
                 return
-            helper(i +1, j-1, s)
+            s[i], s[j] = s[j], s[i]
+            helper(i + 1, j - 1, s)
 
         i = 0
         j = len(s) - 1
