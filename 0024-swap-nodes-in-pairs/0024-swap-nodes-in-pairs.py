@@ -5,14 +5,39 @@
 #         self.next = next
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head or not head.next:
-            return head
+        # # base case
+        # if (head is None or head.next is None):
+        #     return head
         
-        fnode = head
-        snode = head.next
+        # # init nodes
+        # fnode = head
+        # snode = head.next
+        
+        # # swap with recursive call
+        # fnode.next = self.swapPairs(snode.next)
+        # snode.next = fnode
+        
+        # return snode
 
-        # swap
-        fnode.next = self.swapPairs(snode.next)
-        snode.next = fnode
+        # iterative
+        
+        prev = ListNode(0)
+        dummy = prev
+        prev.next = head
 
-        return snode
+        while(head and head.next):
+
+            # nodes init
+            fnode = head
+            snode = head.next
+
+            # swapping
+            prev.next = snode
+            fnode.next = snode.next
+            snode.next = fnode
+            
+            #make head correct
+            prev = fnode
+            head = fnode.next
+        return dummy.next
+
