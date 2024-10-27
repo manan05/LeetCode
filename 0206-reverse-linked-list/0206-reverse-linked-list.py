@@ -17,9 +17,13 @@ class Solution:
 
         # Recursively
 
-        if (head is None) or (head.next is None):
+        # base case
+        if (head is None or head.next is None):
             return head
-        newHead = self.reverseList(head.next)
+        
+        temp = self.reverseList(head.next)
+        # head = 4
         head.next.next = head
         head.next = None
-        return newHead
+
+        return temp
