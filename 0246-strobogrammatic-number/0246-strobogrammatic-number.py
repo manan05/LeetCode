@@ -12,6 +12,4 @@ class Solution:
                     new_num.append('9')
                 else:
                     new_num.append('6')
-        number = ''.join(new_num[::-1])
-        print(number)
-        return number == num
+        return ''.join(new_num[::-1]) == num
