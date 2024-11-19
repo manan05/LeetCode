@@ -67,6 +67,7 @@
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1755-defuse-the-bomb](https://github.com/manan05/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/manan05/LeetCode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/manan05/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Two Pointers
@@ -152,6 +153,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manan05/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
