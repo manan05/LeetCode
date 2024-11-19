@@ -67,6 +67,7 @@
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1755-defuse-the-bomb](https://github.com/manan05/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/manan05/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0206-reverse-linked-list](https://github.com/manan05/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/manan05/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/manan05/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/manan05/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -180,4 +182,8 @@
 | [0143-reorder-list](https://github.com/manan05/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/manan05/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/manan05/LeetCode/tree/master/0206-reverse-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/manan05/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 <!---LeetCode Topics End-->
