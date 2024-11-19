@@ -66,6 +66,7 @@
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
+| [1755-defuse-the-bomb](https://github.com/manan05/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manan05/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1755-defuse-the-bomb](https://github.com/manan05/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Bit Manipulation
 |  |
 | ------- |
