@@ -73,6 +73,7 @@
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
+| [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/manan05/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2048-build-array-from-permutation](https://github.com/manan05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -111,6 +112,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/manan05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Design
 |  |
 | ------- |
