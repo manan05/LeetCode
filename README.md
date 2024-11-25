@@ -54,6 +54,7 @@
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2383-add-two-integers](https://github.com/manan05/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/manan05/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/manan05/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/manan05/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/manan05/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -229,4 +230,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/manan05/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/manan05/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
