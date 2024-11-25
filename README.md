@@ -34,6 +34,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manan05/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manan05/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3194-find-words-containing-character](https://github.com/manan05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/manan05/LeetCode/tree/master/3379-score-of-a-string) |
 ## Queue
 |  |
@@ -79,6 +80,7 @@
 | [2048-build-array-from-permutation](https://github.com/manan05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3194-find-words-containing-character](https://github.com/manan05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/manan05/LeetCode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manan05/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/manan05/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
