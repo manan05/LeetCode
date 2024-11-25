@@ -3,7 +3,7 @@ class Solution:
         ans = []
         i = 0
         j = n
-        while(j < len(nums)):
+        while(j < 2*n):
             ans.append(nums[i])
             ans.append(nums[j])
             i += 1
