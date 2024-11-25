@@ -17,6 +17,7 @@
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manan05/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/manan05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manan05/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/manan05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/manan05/LeetCode/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/manan05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Queue
 |  |
 | ------- |
