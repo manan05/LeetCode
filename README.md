@@ -45,6 +45,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | ------- |
 | [0838-design-linked-list](https://github.com/manan05/LeetCode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
 ## Interactive
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/manan05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
