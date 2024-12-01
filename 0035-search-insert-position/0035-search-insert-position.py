@@ -3,9 +3,10 @@ class Solution:
         l, r = 0, len(nums) - 1
         while(l<=r):
             mid = (l + r) //2
-            if(nums[mid] == target):
+            check = nums[mid]
+            if(check == target):
                 return mid
-            elif(nums[mid] > target):
+            elif(check > target):
                 r = mid - 1
             else:
                 l = mid + 1
