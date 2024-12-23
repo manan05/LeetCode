@@ -21,20 +21,42 @@ class Solution:
         # preorder(root)
         # return res
         
-        # using stack
-        if root is None:
-            return []
+        # # using stack
+        # if root is None:
+        #     return []
 
-        stack = [root,]
-        res = []
+        # stack = [root,]
+        # res = []
 
-        while stack:
-            curr = stack.pop()
-            res.append(curr.val)
-            if(curr.right is not None):
-                stack.append(curr.right)
-            if(curr.left is not None):
-                stack.append(curr.left)
+        # while stack:
+        #     curr = stack.pop()
+        #     res.append(curr.val)
+        #     if(curr.right is not None):
+        #         stack.append(curr.right)
+        #     if(curr.left is not None):
+        #         stack.append(curr.left)
         
-        return res
-        
+        # return res
+
+        # Morris Traversal
+        node = root
+        output = []
+
+        while node:
+            if not node.left:
+                output.append(node.val)
+                node = node.right
+            else:
+                pred = node.left
+
+                while pred.right and pred.right is not node:
+                    pred = pred.right
+                
+                if not pred.right:
+                    output.append(node.val)
+                    pred.right = node
+                    node = node.left
+                else:
+                    pred.right = None
+                    node = node.right
+        return output
