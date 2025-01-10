@@ -35,6 +35,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1524-string-matching-in-an-array](https://github.com/manan05/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manan05/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan05/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manan05/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/manan05/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -91,6 +92,7 @@
 | [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/manan05/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/manan05/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan05/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/manan05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -274,4 +276,8 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/manan05/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan05/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
