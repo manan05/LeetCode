@@ -87,6 +87,7 @@
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
@@ -120,6 +121,7 @@
 | [0246-strobogrammatic-number](https://github.com/manan05/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0344-reverse-string](https://github.com/manan05/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/manan05/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2232-adding-spaces-to-a-string](https://github.com/manan05/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
@@ -127,6 +129,7 @@
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 ## Binary Search
 |  |
