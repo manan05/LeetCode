@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manan05/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/manan05/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -79,6 +80,7 @@
 | [0027-remove-element](https://github.com/manan05/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manan05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manan05/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/manan05/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manan05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manan05/LeetCode/tree/master/0136-single-number) |
