@@ -15,6 +15,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0889-buddy-strings](https://github.com/manan05/LeetCode/tree/master/0889-buddy-strings) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1123-single-row-keyboard](https://github.com/manan05/LeetCode/tree/master/1123-single-row-keyboard) |
@@ -30,6 +31,7 @@
 | [0344-reverse-string](https://github.com/manan05/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0889-buddy-strings](https://github.com/manan05/LeetCode/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1123-single-row-keyboard](https://github.com/manan05/LeetCode/tree/master/1123-single-row-keyboard) |
