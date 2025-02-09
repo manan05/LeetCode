@@ -8,7 +8,6 @@ class Solution:
             diff = nums[i] - i
             myDict[diff] = myDict.get(diff, 0) + 1
         good_count = 0
-        print(myDict)
         for y in myDict.values():
             if (y > 1):
                 good_count += (y * (y - 1)) // 2
