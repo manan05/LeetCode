@@ -6,10 +6,7 @@ class Solution:
 
         for i in range(n):
             diff = nums[i] - i
-            if diff in myDict:
-                myDict[diff] = myDict.get(diff, 0) + 1
-            else:
-                myDict[diff] = 1
+            myDict[diff] = myDict.get(diff, 0) + 1
         good_count = 0
         print(myDict)
         for y in myDict.values():
