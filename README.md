@@ -22,6 +22,7 @@
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manan05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manan05/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3412-permutation-difference-between-two-strings](https://github.com/manan05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/manan05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -166,6 +167,7 @@
 | [0838-design-linked-list](https://github.com/manan05/LeetCode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
+| [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Interactive
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manan05/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
@@ -305,4 +308,8 @@
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan05/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
