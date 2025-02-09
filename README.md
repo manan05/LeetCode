@@ -23,6 +23,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manan05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manan05/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/manan05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/manan05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/manan05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -64,6 +65,7 @@
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manan05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/manan05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/manan05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/manan05/LeetCode/tree/master/2383-add-two-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/manan05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/manan05/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/manan05/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/manan05/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -115,6 +118,7 @@
 | [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/manan05/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2448-count-number-of-bad-pairs](https://github.com/manan05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/manan05/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/manan05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manan05/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
