@@ -45,6 +45,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manan05/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan05/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manan05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/manan05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manan05/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/manan05/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -220,6 +221,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manan05/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/manan05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manan05/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/manan05/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -227,6 +229,7 @@
 | ------- |
 | [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/manan05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/manan05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/manan05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
