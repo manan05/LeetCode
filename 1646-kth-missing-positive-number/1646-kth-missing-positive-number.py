@@ -20,6 +20,3 @@ class Solution:
                 right = pivot - 1
         
         return left + k
-
-        
-        
