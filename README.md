@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0246-strobogrammatic-number](https://github.com/manan05/LeetCode/tree/master/0246-strobogrammatic-number) |
+| [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -75,6 +76,7 @@
 | [0009-palindrome-number](https://github.com/manan05/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/manan05/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/manan05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -102,6 +104,7 @@
 | [0162-find-peak-element](https://github.com/manan05/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -154,6 +157,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
@@ -166,6 +170,7 @@
 | [0035-search-insert-position](https://github.com/manan05/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/manan05/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/manan05/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/manan05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
@@ -207,6 +212,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/manan05/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/manan05/LeetCode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Brainteaser
 |  |
