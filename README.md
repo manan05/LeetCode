@@ -79,6 +79,7 @@
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
+| [1090-armstrong-number](https://github.com/manan05/LeetCode/tree/master/1090-armstrong-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/manan05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/manan05/LeetCode/tree/master/2383-add-two-integers) |
