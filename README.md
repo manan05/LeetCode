@@ -79,6 +79,7 @@
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/manan05/LeetCode/tree/master/0326-power-of-three) |
 | [1090-armstrong-number](https://github.com/manan05/LeetCode/tree/master/1090-armstrong-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/manan05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -286,6 +287,7 @@
 | [0143-reorder-list](https://github.com/manan05/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/manan05/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/manan05/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/manan05/LeetCode/tree/master/0326-power-of-three) |
 ## Doubly-Linked List
 |  |
 | ------- |
