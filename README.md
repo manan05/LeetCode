@@ -81,6 +81,7 @@
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/manan05/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/manan05/LeetCode/tree/master/0342-power-of-four) |
 | [1090-armstrong-number](https://github.com/manan05/LeetCode/tree/master/1090-armstrong-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/manan05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -222,6 +223,7 @@
 | [0136-single-number](https://github.com/manan05/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manan05/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/manan05/LeetCode/tree/master/0342-power-of-four) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/manan05/LeetCode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Brainteaser
 |  |
@@ -291,6 +293,7 @@
 | [0206-reverse-linked-list](https://github.com/manan05/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/manan05/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manan05/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/manan05/LeetCode/tree/master/0342-power-of-four) |
 ## Doubly-Linked List
 |  |
 | ------- |
