@@ -82,6 +82,7 @@
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/manan05/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manan05/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
 | [1090-armstrong-number](https://github.com/manan05/LeetCode/tree/master/1090-armstrong-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/manan05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manan05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [0231-power-of-two](https://github.com/manan05/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manan05/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manan05/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -359,4 +362,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
