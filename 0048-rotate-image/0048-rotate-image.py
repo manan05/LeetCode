@@ -3,17 +3,20 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        self.transpose(matrix)
-        self.reverse(matrix)
+        # # Brute force - Which uses space  
+        # n = len(matrix)
+        # res = [[0 for _ in range(n)] for _ in range(n)]
+        
+        # for i in range(n):
+        #     for j in range(n):
+        #         res[j][n - 1 - i] = matrix[i][j]
+        # print(res)
 
-    def transpose(self, matrix):
+        # # Optimal Approach  - In Place - Transpose -> Reverse Row
         n = len(matrix)
-        for i in range(n):
+        for i in range(n - 1):
             for j in range(i + 1, n):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 
-    def reverse(self, matrix):
-        n = len(matrix)
-        for i in range(n):
-            for j in range(n // 2):
-                matrix[i][j], matrix[i][n-j - 1] = matrix[i][n-j - 1], matrix[i][j]
+        for i in matrix:
+            i.reverse()
