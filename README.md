@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manan05/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/manan05/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manan05/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/manan05/LeetCode/tree/master/0231-power-of-two) |
@@ -109,6 +110,7 @@
 | [0031-next-permutation](https://github.com/manan05/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manan05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manan05/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/manan05/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manan05/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manan05/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/manan05/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -349,6 +351,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manan05/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/manan05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/manan05/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Number Theory
