@@ -1,14 +1,19 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        # 2 pointer approach
-        l, r = 0, 1 # L = buy, R= Sell
+    #    # Approach 1: Brute Force:
+
+    #     maxP = 0
+    #     for i in range(len(prices) - 1):
+    #         for j in range(i + 1, len(prices)):
+    #             profit = prices[j] - prices[i]
+    #             maxP = max(profit, maxP)
+    #     return maxP
+
+    # # Approach 2: One Pass Algo
+
+        curr = prices[0]
         maxP = 0
-        while (r < len(prices)):
-            if(prices[l] < prices[r]):
-                profit = prices[r] - prices[l]
-                maxP = max(maxP, profit)
-                r += 1
-            else:
-                l = r # because here we find a price that is lower and maximizes the profit
-                r += 1
+        for i in range(1, len(prices)):
+            curr = min(prices[i], curr)
+            maxP = max(prices[i] - curr, maxP)
         return maxP
