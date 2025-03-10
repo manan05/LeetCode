@@ -24,6 +24,7 @@
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manan05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manan05/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manan05/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/manan05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -145,6 +146,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/manan05/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/manan05/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manan05/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/manan05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/manan05/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -360,6 +362,7 @@
 | [0048-rotate-image](https://github.com/manan05/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/manan05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/manan05/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manan05/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Number Theory
 |  |
 | ------- |
