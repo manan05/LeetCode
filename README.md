@@ -130,6 +130,7 @@
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/manan05/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -279,6 +280,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/manan05/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/manan05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manan05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
