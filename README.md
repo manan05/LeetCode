@@ -41,6 +41,7 @@
 | [0125-valid-palindrome](https://github.com/manan05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0243-shortest-word-distance](https://github.com/manan05/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/manan05/LeetCode/tree/master/0245-shortest-word-distance-iii) |
 | [0246-strobogrammatic-number](https://github.com/manan05/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0344-reverse-string](https://github.com/manan05/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -133,6 +134,7 @@
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0243-shortest-word-distance](https://github.com/manan05/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/manan05/LeetCode/tree/master/0245-shortest-word-distance-iii) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/manan05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0346-moving-average-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0346-moving-average-from-data-stream) |
