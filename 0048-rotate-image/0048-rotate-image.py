@@ -13,13 +13,11 @@ class Solution:
         # print(res)
 
         # # Optimal Approach  - In Place - Transpose -> Reverse Row
-        n = len(matrix)
-        for i in range(n - 1):
-            for j in range(i + 1, n):
+        # transpose
+        for i in range(len(matrix)):
+            for j in range(i + 1, len(matrix[0])):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 
-        for i in range(n):
-            for j in range(n//2):
-                matrix[i][j], matrix[i][n-j-1] = matrix[i][n-j-1], matrix[i][j]
-
-        # can also use i.reverse() while traversing matrix rows
+        # Reverse
+        for i in matrix:
+            i.reverse()
