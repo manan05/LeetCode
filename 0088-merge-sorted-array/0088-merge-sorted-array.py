@@ -3,24 +3,20 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        # # Approach 1: Brute Force
+        # # Approach 1: Brute Force (no space but sorting)
         # for i in range(n):
         #     nums1[m + i] = nums2[i]
         # nums1.sort()
 
-        # # Approach 2: 
-        tempArr = nums1[:m]
-
-        p1 = 0
-        p2 = 0
-
-        p = 0
-        while (p < m + n):
-            if p2>= n or (p1 < m and (tempArr[p1] <= nums2[p2])):
-                nums1[p] = tempArr[p1]
-                p1 += 1
+        # # Approach 2: 3 pointers
+        p1 = m - 1
+        p2 = n -1
+        for p in range(m + n - 1, -1, -1):
+            if p2<0:
+                break
+            if p1 >= 0 and nums1[p1] > nums2[p2]:
+                nums1[p] = nums1[p1]
+                p1 -= 1
             else:
                 nums1[p] = nums2[p2]
-                p2+= 1
-            p += 1
-        
+                p2 -= 1
