@@ -3,18 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        # # Approach 1: Brute Force (no space but sorting)
+        # # Approach 1: Brute Force - merge and then sort again
         # for i in range(n):
-        #     nums1[m + i] = nums2[i]
+        #     nums1[i + m] = nums2[i]
         # nums1.sort()
 
-        # # Approach 2: 3 pointers
+        # # Approach 2: One pass - 3 pointers
         p1 = m - 1
-        p2 = n -1
+        p2 = n - 1
         for p in range(m + n - 1, -1, -1):
-            if p2<0:
+            if p2 < 0:
                 break
-            if p1 >= 0 and nums1[p1] > nums2[p2]:
+            if p1 >= 0 and nums1[p1] >= nums2[p2]:
                 nums1[p] = nums1[p1]
                 p1 -= 1
             else:
