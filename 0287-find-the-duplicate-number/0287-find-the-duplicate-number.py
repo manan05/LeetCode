@@ -1,46 +1,62 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        # # Approach 1: constant space but sorting (O(nlogn)) this involves modifying too
+        # # Approach 1: Sorting
         # nums.sort()
         # for i in range(1, len(nums)):
         #     if nums[i-1] == nums[i]:
         #         return nums[i]
 
-        # # Approach 2: Set approach, linear space
+        # # Approach 2: Using Set
         # mySet = set()
         # for i in nums:
         #     if i in mySet:
         #         return i
-        #     mySet.add(i)
+        #     else:
+        #         mySet.add(i)
 
-        # # Approach 3: Negative Marking
+        # # Approach 3: Using Hashmap
+        # myDict = {}
         # for i in nums:
-        #     curr = abs(i)
-        #     if nums[curr] < 0:
-        #         duplicate = curr
-        #         break
-        #     nums[curr] = - nums[curr]
-        # for i in range(len(nums)):
-        #     nums[i] = abs(nums[i])
+        #     if myDict.get(i, 0) == 1:
+        #         return i
+        #     else:
+        #         myDict[i] = 1
+
+        # # Approach 4: Modified Binary search
+        # low = 1
+        # high = len(nums) - 1
+
+        # while low <= high:
+        #     mid = (low + high) // 2
+        #     count = 0
+
+        #     for i in nums:
+        #         if i <= mid:
+        #             count += 1
+
+        #     if count > mid:
+        #         duplicate = mid
+        #         high = mid - 1
+        #     else:
+        #         low = mid + 1
+
         # return duplicate
 
-        # # Approach 4: using extra space without modifying
-        # hmap = {}
-        # for i in range(len(nums)):
-        #     if hmap.get(nums[i], 0) != 0:
-        #         return nums[i]
-        #     hmap[nums[i]] = 1
+        # # Approach 5: Optimized: Slow and Fast pointer
 
-        # # Approach 5: without using extra space:
-        low = 1
-        high = len(nums) - 1
-        while low <= high:
-            curr = (low + high) // 2
-            count = 0
-            count = sum(num<= curr for num in nums)
-            if count > curr:
-                duplicate = curr
-                high = curr - 1
-            else:
-                low = curr + 1
-        return duplicate
+        slow = nums[0]
+        fast = nums[0]
+
+        while True:
+            slow = nums[slow]
+            fast = nums[nums[fast]]
+
+            if slow == fast:
+                break
+
+        slow = nums[0]
+        while slow != fast:
+            slow = nums[slow]
+            fast = nums[fast]
+        
+        return slow
