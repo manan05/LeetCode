@@ -11,19 +11,16 @@ class Solution:
         # return False
 
         # # Approach 2: Binary search
-        m = len(matrix)
-        n = len(matrix[0])
-        left = 0
-        right = (m * n) - 1
-        
+        m, n = len(matrix), len(matrix[0])
+        left, right = 0, (m * n - 1)
+
         while (left <= right):
-            pivot_idx = (left + right) // 2
-            pivot_elem = matrix[pivot_idx // n][pivot_idx % n]
-            if target == pivot_elem:
+            pivot = (left + right) // 2
+            elem = matrix[pivot // n][pivot % n]
+            if target == elem:
                 return True
+            elif target > elem:
+                left = pivot + 1
             else:
-                if target > pivot_elem:
-                    left = pivot_idx + 1
-                else:
-                    right = pivot_idx - 1
+                right = pivot - 1
         return False
