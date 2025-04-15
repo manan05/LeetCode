@@ -12,6 +12,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/manan05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/manan05/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -136,6 +138,7 @@
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manan05/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0243-shortest-word-distance](https://github.com/manan05/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/manan05/LeetCode/tree/master/0245-shortest-word-distance-iii) |
@@ -211,6 +214,7 @@
 | [0075-sort-colors](https://github.com/manan05/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
