@@ -90,6 +90,7 @@
 | [0009-palindrome-number](https://github.com/manan05/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/manan05/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/manan05/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/manan05/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/manan05/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/manan05/LeetCode/tree/master/0189-rotate-array) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/manan05/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/manan05/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/manan05/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manan05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
@@ -456,4 +458,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/manan05/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
