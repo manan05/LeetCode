@@ -2,8 +2,6 @@ def merge(nums, left, mid, right):
     count = 0
     s1 = left
     s2 = mid + 1
-    n1 = mid + 1 - left
-    n2 = right - mid
     j = s2
 
     # count reverse pairs
@@ -43,7 +41,8 @@ def mergeSort(nums, left, right):
     if left >= right:
         return 0
     mid = (left + right) // 2
-    count = mergeSort(nums, left, mid)
+    count = 0
+    count += mergeSort(nums, left, mid)
     count += mergeSort(nums, mid + 1, right)
     count += merge(nums, left, mid, right)
     return count
