@@ -16,6 +16,7 @@
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/manan05/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/manan05/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -46,6 +47,7 @@
 | [0245-shortest-word-distance-iii](https://github.com/manan05/LeetCode/tree/master/0245-shortest-word-distance-iii) |
 | [0246-strobogrammatic-number](https://github.com/manan05/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0344-reverse-string](https://github.com/manan05/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/manan05/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0889-buddy-strings](https://github.com/manan05/LeetCode/tree/master/0889-buddy-strings) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/manan05/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
