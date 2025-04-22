@@ -180,6 +180,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manan05/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/manan05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/manan05/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/manan05/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -217,6 +218,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/manan05/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2232-adding-spaces-to-a-string](https://github.com/manan05/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -234,6 +236,7 @@
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -253,6 +256,7 @@
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Design
 |  |
