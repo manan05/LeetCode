@@ -26,3 +26,16 @@ class Solution:
                     del hashmap[nums[left]]
                 left += 1
         return res
+
+
+"""
+Brute Force Solution: O(N^2):
+    - Logic: iterate so that you can get all the subarrays and then just check if len(set) == k
+
+Optimized: Sliding Window
+    - left = 0, res = 0, k found out using len of set
+    - map banaya, counted the occurences of the elements, once size of map == k:
+    - res me add kardiya till the end of loop
+    - left waale element ki frequency kam kari from map and left increase kardiya 
+        if frequency == 0 ho gayi then just deleted the element
+"""
