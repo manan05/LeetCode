@@ -5,13 +5,19 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # iteratively:
-        i = head
-        j = head
+        # # Approach 1: Using additional space O(N)
+        # res = []
+        # curr = head
+        # while curr:
+        #     res.append(curr)
+        #     curr = curr.next
+        
+        # return res[len(res) // 2]
 
-        while j.next is not None and j is not None and j.next.next is not None:
-            i = i.next
-            j = j.next.next
-        if (j.next is None):
-            return i
-        return i.next
+        # # Without any additional space
+        slow = head
+        fast = head
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+        return slow
