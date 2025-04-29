@@ -516,4 +516,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manan05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/manan05/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
