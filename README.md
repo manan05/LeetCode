@@ -27,6 +27,7 @@
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1123-single-row-keyboard](https://github.com/manan05/LeetCode/tree/master/1123-single-row-keyboard) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manan05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1500-count-largest-group](https://github.com/manan05/LeetCode/tree/master/1500-count-largest-group) |
@@ -86,6 +87,7 @@
 | [0383-ransom-note](https://github.com/manan05/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manan05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
@@ -169,6 +171,7 @@
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/manan05/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manan05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
