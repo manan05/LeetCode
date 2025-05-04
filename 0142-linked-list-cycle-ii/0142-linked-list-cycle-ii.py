@@ -6,13 +6,14 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        hashmap = {}
+        hashset = set()
+        if not head:
+            return
         i = 0
         curr = head
-        while (curr is not None):
-            if curr in hashmap:
+        while curr:
+            if curr in hashset:
                 return curr
-            hashmap[curr] = i
-            i += 1
+            hashset.add(curr)
             curr = curr.next
-        return None
+            i += 1
