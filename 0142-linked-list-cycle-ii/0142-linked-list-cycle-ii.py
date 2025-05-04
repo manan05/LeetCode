@@ -6,12 +6,32 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        hashset = set()
-        if not head:
+        # # Brute Force - using additional space
+        # hashset = set()
+        # if not head:
+        #     return
+        # curr = head
+        # while curr:
+        #     if curr in hashset:
+        #         return curr
+        #     hashset.add(curr)
+        #     curr = curr.next
+
+        # # Approach 2: no extra memory
+        slow = head
+        fast = head
+
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
+                break
+
+        if not fast or not fast.next:
             return
-        curr = head
-        while curr:
-            if curr in hashset:
-                return curr
-            hashset.add(curr)
-            curr = curr.next
+
+        slow = head
+        while slow != fast:
+            slow = slow.next
+            fast = fast.next
+        return slow
