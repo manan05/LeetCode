@@ -43,8 +43,8 @@ class Solution:
             return prev
 
         curr = head
-        tail = None
         new_head = None
+        tail = None
         while curr:
             count = 0
             while count < k and curr:
@@ -61,4 +61,4 @@ class Solution:
         if tail:
             tail.next = head
 
-        return new_head if new_head else head
+        return new_head
