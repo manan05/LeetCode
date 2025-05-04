@@ -9,11 +9,9 @@ class Solution:
         hashset = set()
         if not head:
             return
-        i = 0
         curr = head
         while curr:
             if curr in hashset:
                 return curr
             hashset.add(curr)
             curr = curr.next
-            i += 1
