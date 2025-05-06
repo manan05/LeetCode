@@ -215,6 +215,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manan05/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manan05/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/manan05/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/manan05/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manan05/LeetCode/tree/master/0125-valid-palindrome) |
@@ -377,6 +378,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/manan05/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manan05/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/manan05/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/manan05/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/manan05/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manan05/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/manan05/LeetCode/tree/master/0143-reorder-list) |
