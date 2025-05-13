@@ -165,6 +165,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manan05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0346-moving-average-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manan05/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0485-max-consecutive-ones](https://github.com/manan05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/manan05/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/manan05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
