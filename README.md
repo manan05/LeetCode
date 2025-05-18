@@ -162,6 +162,7 @@
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/manan05/LeetCode/tree/master/0245-shortest-word-distance-iii) |
 | [0252-meeting-rooms](https://github.com/manan05/LeetCode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/manan05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0346-moving-average-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0346-moving-average-from-data-stream) |
@@ -235,6 +236,7 @@
 | [0234-palindrome-linked-list](https://github.com/manan05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/manan05/LeetCode/tree/master/0246-strobogrammatic-number) |
+| [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/manan05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/manan05/LeetCode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manan05/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -254,6 +256,7 @@
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0252-meeting-rooms](https://github.com/manan05/LeetCode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -377,6 +380,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
@@ -470,6 +474,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
 | [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -489,6 +494,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/manan05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan05/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Ordered Set
