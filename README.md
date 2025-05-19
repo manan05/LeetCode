@@ -125,6 +125,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/manan05/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/manan05/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/manan05/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/manan05/LeetCode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manan05/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manan05/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
@@ -204,6 +205,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/manan05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manan05/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3321-type-of-triangle](https://github.com/manan05/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manan05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manan05/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/manan05/LeetCode/tree/master/3429-special-array-i) |
@@ -267,6 +269,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3321-type-of-triangle](https://github.com/manan05/LeetCode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
