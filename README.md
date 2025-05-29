@@ -62,6 +62,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1123-single-row-keyboard](https://github.com/manan05/LeetCode/tree/master/1123-single-row-keyboard) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/manan05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/manan05/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/manan05/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1524-string-matching-in-an-array](https://github.com/manan05/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -373,6 +374,7 @@
 | [0234-palindrome-linked-list](https://github.com/manan05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/manan05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manan05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manan05/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/manan05/LeetCode/tree/master/3447-clear-digits) |
