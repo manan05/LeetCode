@@ -1,46 +1,32 @@
 class Solution:
-    def isSafe1(self, row, col, board, n):
-        tempRow = row
-        tempCol = col
-        # # upper left diagonal
-        while row >= 0 and col >= 0:
-            if board[row][col] == 'Q':
-                return False
-            row -= 1
-            col -= 1
-
-        # # same row - left side
-        row = tempRow
-        col = tempCol
-        while col >= 0:
-            if board[row][col] == 'Q':
-                return False
-            col -= 1
-
-        # # bottom left diagonal
-        row = tempRow
-        col = tempCol
-        while row < n and col >= 0:
-            if board[row][col] == 'Q':
-                return False
-            row += 1
-            col -= 1
-
-        return True
-
-    def solve(self, col, board, res, n):
+    def solve2(self, col, board, res, n, columns, diagonals, adiagonals):
         if col == n:
             res.append(board[:])
             return
-        
+
         for row in range(n):
-            if self.isSafe1(row, col, board, n):
-                board[row] = board[row][:col] + 'Q' + board[row][col + 1:]
-                self.solve(col + 1, board, res, n)
-                board[row] = board[row][:col] + '.' + board[row][col + 1:]
+            curr_diag = row - col
+            curr_anti_diag = row + col
+
+            # placing queen safe or not
+            if (row in columns) or (curr_diag in diagonals) or (curr_anti_diag in adiagonals):
+                continue
+            # place queen
+            columns.add(row)
+            diagonals.add(curr_diag)
+            adiagonals.add(curr_anti_diag)
+            board[row] = board[row][:col] + 'Q' + board[row][col + 1:]
+
+            self.solve2(col + 1, board, res, n, columns, diagonals, adiagonals)
+            # remove queen
+            columns.remove(row)
+            diagonals.remove(curr_diag)
+            adiagonals.remove(curr_anti_diag)
+            board[row] = board[row][:col] + '.' + board[row][col + 1:]
+
 
     def solveNQueens(self, n: int) -> List[List[str]]:
         board = ["." * n for _ in range(n)]
         res = []
-        self.solve(0, board, res, n)
+        self.solve2(0, board, res, n, set(), set(), set())
         return res
