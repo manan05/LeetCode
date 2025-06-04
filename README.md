@@ -213,6 +213,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manan05/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/manan05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/manan05/LeetCode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manan05/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/manan05/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -305,6 +306,7 @@
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/manan05/LeetCode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Design
@@ -493,6 +495,7 @@
 | [0074-search-a-2d-matrix](https://github.com/manan05/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/manan05/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manan05/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/manan05/LeetCode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## Number Theory
 |  |
 | ------- |
