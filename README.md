@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/manan05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/manan05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/manan05/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/manan05/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manan05/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manan05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -51,6 +52,7 @@
 | [0058-length-of-last-word](https://github.com/manan05/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/manan05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/manan05/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/manan05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0243-shortest-word-distance](https://github.com/manan05/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
@@ -163,6 +165,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manan05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/manan05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/manan05/LeetCode/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/manan05/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
@@ -335,6 +338,7 @@
 | [0118-pascals-triangle](https://github.com/manan05/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manan05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/manan05/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -528,6 +532,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
 ## Data Stream
 |  |
@@ -598,4 +603,9 @@
 | [0078-subsets](https://github.com/manan05/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manan05/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/manan05/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
