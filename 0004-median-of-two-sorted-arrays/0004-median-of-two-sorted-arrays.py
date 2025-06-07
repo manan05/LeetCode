@@ -1,45 +1,42 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        # # Naive solution
-        # for i in nums2:
-        #     nums1.append(i)
-        # nums1.sort()
-        
-        # n = len(nums1)
-        # if(n % 2 != 0):
-        #     median = nums1[(0+n)//2]
-        # else:
-        #     median = (nums1[n//2] + nums1[(n//2) - 1])/2
-        # return median
-
-        A, B = nums1, nums2
-        total = len(A) + len(B)
-        half = total //2
-
-        if (len(B) < len(A)):
-            A,B = B,A
-
-        l, r = 0, len(A) - 1
-        while True:
-            i = (l + r)//2 # A
-            j = half - i - 2 # B, j = index so we subtract 2
-
-            leftA = A[i] if i >= 0 else float("-infinity")
-            rightA = A[i + 1] if i + 1 < len(A) else float("infinity")
-
-            leftB = B[j] if j >= 0 else float("-infinity")
-            rightB = B[j + 1] if j + 1 < len(B) else float("infinity")
-        
-            # partition correct
-            if(leftA <= rightB and leftB<=rightA):
-                # odd
-                if total % 2 != 0:
-                    return min(rightA, rightB)
-                # even
-                
-                return (max(leftA, leftB) + min(rightA, rightB)) /2
-            elif (leftA > rightB):
-                r = i - 1
+        n, m = len(nums1), len(nums2)
+        id1 = (n + m) // 2
+        id2 = id1 - 1
+        i = 0
+        j = 0
+        p = 0
+        while i < n and j < m:
+            if nums1[i] < nums2[j]:
+                if p == id1:
+                    id1_elem = nums1[i]
+                if p == id2:
+                    id2_elem = nums1[i]
+                p += 1
+                i += 1
             else:
-                l = i + 1
+                if p == id1:
+                    id1_elem = nums2[j]
+                if p == id2:
+                    id2_elem = nums2[j]
+                p += 1
+                j += 1
 
+        while i < n:
+            if p == id1:
+                id1_elem = nums1[i]
+            if p == id2:
+                id2_elem = nums1[i]
+            p += 1
+            i += 1
+        while j < m:
+            if p == id1:
+                id1_elem = nums2[j]
+            if p == id2:
+                id2_elem = nums2[j]
+            p += 1
+            j += 1
+        if (n + m) % 2 != 0:
+            return id1_elem
+        else:
+            return (id1_elem + id2_elem) / 2
