@@ -233,6 +233,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manan05/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/manan05/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/manan05/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/manan05/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
