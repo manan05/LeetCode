@@ -202,6 +202,7 @@
 | [1524-string-matching-in-an-array](https://github.com/manan05/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/manan05/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/manan05/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/manan05/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/manan05/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manan05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -287,6 +288,7 @@
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1675-magnetic-force-between-two-balls](https://github.com/manan05/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manan05/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -311,6 +313,7 @@
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/manan05/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/manan05/LeetCode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
