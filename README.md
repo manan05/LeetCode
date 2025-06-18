@@ -29,6 +29,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manan05/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-buddy-strings](https://github.com/manan05/LeetCode/tree/master/0889-buddy-strings) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1074-high-five](https://github.com/manan05/LeetCode/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1123-single-row-keyboard](https://github.com/manan05/LeetCode/tree/master/1123-single-row-keyboard) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manan05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -196,6 +197,7 @@
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/manan05/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1074-high-five](https://github.com/manan05/LeetCode/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manan05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
@@ -290,6 +292,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
+| [1074-high-five](https://github.com/manan05/LeetCode/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1675-magnetic-force-between-two-balls](https://github.com/manan05/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -524,6 +527,7 @@
 | [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0506-relative-ranks](https://github.com/manan05/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
+| [1074-high-five](https://github.com/manan05/LeetCode/tree/master/1074-high-five) |
 | [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manan05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
