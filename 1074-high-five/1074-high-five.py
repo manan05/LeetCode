@@ -1,10 +1,11 @@
+import heapq
 class Solution:
     def highFive(self, items: List[List[int]]) -> List[List[int]]:
         hashmap = defaultdict(list)
         for st, marks in items:
-            heapq.heappush(hashmap[st], marks)
+            heappush(hashmap[st], marks)
             if len(hashmap[st]) > 5:
-                heapq.heappop(hashmap[st])
+                heappop(hashmap[st])
         res = []
         for st, marks in hashmap.items():
             res.append([st, sum(marks) // 5])
