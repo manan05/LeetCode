@@ -1,7 +1,9 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        for i in range(len(s)):
-            newStr = s[:i] + s[i+1:]
-            if(s[i] not in newStr):
-                return i
+        hashmap = {}
+        for i in s:
+            hashmap[i] = hashmap.get(i, 0) + 1
+        for idx, ch in enumerate(s):
+            if hashmap[ch] == 1:
+                return idx
         return -1
