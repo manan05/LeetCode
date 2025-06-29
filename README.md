@@ -212,6 +212,7 @@
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/manan05/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/manan05/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/manan05/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/manan05/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/manan05/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -278,6 +279,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manan05/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/manan05/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/manan05/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2232-adding-spaces-to-a-string](https://github.com/manan05/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manan05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -305,6 +307,7 @@
 | [1074-high-five](https://github.com/manan05/LeetCode/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/manan05/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/manan05/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manan05/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -329,6 +332,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/manan05/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/manan05/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/manan05/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/manan05/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/manan05/LeetCode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
