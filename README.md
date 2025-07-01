@@ -87,6 +87,7 @@
 | [3379-score-of-a-string](https://github.com/manan05/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/manan05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/manan05/LeetCode/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/manan05/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
 | ------- |
