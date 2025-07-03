@@ -147,6 +147,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manan05/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manan05/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/manan05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manan05/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manan05/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -252,6 +253,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manan05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manan05/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manan05/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manan05/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -442,6 +444,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manan05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0455-assign-cookies](https://github.com/manan05/LeetCode/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
