@@ -16,6 +16,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/manan05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manan05/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/manan05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
@@ -186,6 +187,7 @@
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manan05/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manan05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/manan05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0243-shortest-word-distance](https://github.com/manan05/LeetCode/tree/master/0243-shortest-word-distance) |
@@ -305,6 +307,7 @@
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manan05/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manan05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/manan05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/manan05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0252-meeting-rooms](https://github.com/manan05/LeetCode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
