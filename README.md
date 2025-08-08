@@ -93,6 +93,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/manan05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/manan05/LeetCode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/manan05/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/manan05/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -464,6 +465,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/manan05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/manan05/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manan05/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/manan05/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Greedy
 |  |
 | ------- |
