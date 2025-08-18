@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/manan05/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/manan05/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/manan05/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manan05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/manan05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/manan05/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/manan05/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/manan05/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manan05/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/manan05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/manan05/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -170,6 +172,7 @@
 | [0042-trapping-rain-water](https://github.com/manan05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manan05/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/manan05/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/manan05/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/manan05/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manan05/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/manan05/LeetCode/tree/master/0056-merge-intervals) |
@@ -307,6 +310,7 @@
 | ------- |
 | [0015-3sum](https://github.com/manan05/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manan05/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/manan05/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/manan05/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/manan05/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manan05/LeetCode/tree/master/0088-merge-sorted-array) |
