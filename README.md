@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/manan05/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/manan05/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manan05/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/manan05/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/manan05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/manan05/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
@@ -60,6 +61,7 @@
 | [0020-valid-parentheses](https://github.com/manan05/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/manan05/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manan05/LeetCode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/manan05/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/manan05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/manan05/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
@@ -411,6 +413,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/manan05/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/manan05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
