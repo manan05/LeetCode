@@ -8,43 +8,32 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        if(not head):
+        # find mid
+        if not head:
             return
-        # finding middle node
-        i = j = head
-        while(j and j.next):
-            i = i.next
-            j = j.next.next
-        
-        # i will have middle Node
+        slow = head
+        fast = head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
 
-        # reverse the second part
-
+        # reverse
         prev = None
-        curr = i
-
-        while(curr):
-            # prev to curr
-            # curr = curr.next
-            # curr next to prev
-            front = curr.next
-
+        curr = slow
+        while curr:
+            temp = curr.next
             curr.next = prev
             prev = curr
-            curr = front
-        
-        # prev = front node
-        
-        # merging step
+            curr = temp
 
-        f, s = head, prev
-        while(s.next):
-            dummy = f.next
-            f.next = s
-            f = dummy
+        # merge
+        l1 = head
+        l2 = prev
+        while l2.next:
+            temp = l1.next
+            l1.next = l2
+            l1 = temp
 
-            dummy = s.next
-            s.next = f
-            s = dummy
-    
-
+            temp = l2.next
+            l2.next = l1
+            l2 = temp
