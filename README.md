@@ -539,6 +539,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/manan05/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manan05/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manan05/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/manan05/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manan05/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manan05/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
@@ -550,6 +551,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/manan05/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manan05/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manan05/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/manan05/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manan05/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manan05/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -562,6 +564,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/manan05/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manan05/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manan05/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/manan05/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manan05/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manan05/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Matrix
@@ -602,6 +605,7 @@
 | [0101-symmetric-tree](https://github.com/manan05/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/manan05/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manan05/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/manan05/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manan05/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String Matching
 |  |
