@@ -77,6 +77,7 @@
 | [0344-reverse-string](https://github.com/manan05/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/manan05/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0408-valid-word-abbreviation](https://github.com/manan05/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0889-buddy-strings](https://github.com/manan05/LeetCode/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -302,6 +303,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manan05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/manan05/LeetCode/tree/master/0344-reverse-string) |
+| [0408-valid-word-abbreviation](https://github.com/manan05/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0455-assign-cookies](https://github.com/manan05/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manan05/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/manan05/LeetCode/tree/master/0908-middle-of-the-linked-list) |
