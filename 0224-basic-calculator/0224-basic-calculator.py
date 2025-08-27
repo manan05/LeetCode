@@ -13,7 +13,7 @@ class Solution:
                 res = res + (sign * num)
                 i = k
                 continue
-            if s[i] == '+':
+            elif s[i] == '+':
                 sign = 1
             elif s[i] == '-':
                 sign = -1
