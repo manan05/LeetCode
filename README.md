@@ -68,6 +68,7 @@
 | [0140-word-break-ii](https://github.com/manan05/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/manan05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manan05/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0224-basic-calculator](https://github.com/manan05/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/manan05/LeetCode/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/manan05/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/manan05/LeetCode/tree/master/0244-shortest-word-distance-ii) |
@@ -136,6 +137,7 @@
 | [0069-sqrtx](https://github.com/manan05/LeetCode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manan05/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/manan05/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/manan05/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/manan05/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
@@ -456,6 +458,7 @@
 | [0143-reorder-list](https://github.com/manan05/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manan05/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manan05/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/manan05/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/manan05/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manan05/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manan05/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -526,6 +529,7 @@
 | [0143-reorder-list](https://github.com/manan05/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/manan05/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/manan05/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/manan05/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/manan05/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/manan05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/manan05/LeetCode/tree/master/0326-power-of-three) |
