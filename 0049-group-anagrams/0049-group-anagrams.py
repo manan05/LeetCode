@@ -1,9 +1,10 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hmap = {}
+        hashmap = {}
         for st in strs:
-            if tuple(sorted(st)) in hmap:
-                hmap[tuple(sorted(st))].append(st)
+            char = tuple(sorted(st))
+            if char in hashmap:
+                hashmap[char].append(st)
             else:
-                hmap[tuple(sorted(st))] = [st]
-        return [x for x in hmap.values()]
+                hashmap[char] = [st]
+        return [x for x in hashmap.values()]
