@@ -44,6 +44,7 @@
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1500-count-largest-group](https://github.com/manan05/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manan05/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1904-second-largest-digit-in-a-string](https://github.com/manan05/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manan05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manan05/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manan05/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -90,6 +91,7 @@
 | [1524-string-matching-in-an-array](https://github.com/manan05/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manan05/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan05/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1904-second-largest-digit-in-a-string](https://github.com/manan05/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manan05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manan05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manan05/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
