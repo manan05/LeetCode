@@ -82,6 +82,7 @@
 | [0383-ransom-note](https://github.com/manan05/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/manan05/LeetCode/tree/master/0408-valid-word-abbreviation) |
+| [0412-fizz-buzz](https://github.com/manan05/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/manan05/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0889-buddy-strings](https://github.com/manan05/LeetCode/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -148,6 +149,7 @@
 | [0292-nim-game](https://github.com/manan05/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/manan05/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manan05/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/manan05/LeetCode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manan05/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
 | [1090-armstrong-number](https://github.com/manan05/LeetCode/tree/master/1090-armstrong-number) |
@@ -482,6 +484,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/manan05/LeetCode/tree/master/0412-fizz-buzz) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/manan05/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1184-car-pooling](https://github.com/manan05/LeetCode/tree/master/1184-car-pooling) |
 | [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
