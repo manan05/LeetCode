@@ -260,6 +260,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manan05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan05/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/manan05/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1961-maximum-ice-cream-bars](https://github.com/manan05/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/manan05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manan05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/manan05/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -356,6 +357,7 @@
 | [1388-greatest-sum-divisible-by-three](https://github.com/manan05/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/manan05/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/manan05/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1961-maximum-ice-cream-bars](https://github.com/manan05/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manan05/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manan05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manan05/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -510,6 +512,7 @@
 | [0455-assign-cookies](https://github.com/manan05/LeetCode/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/manan05/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1961-maximum-ice-cream-bars](https://github.com/manan05/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -693,6 +696,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/manan05/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Combinatorics
 |  |
 | ------- |
