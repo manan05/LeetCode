@@ -234,6 +234,7 @@
 | [0506-relative-ranks](https://github.com/manan05/LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manan05/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manan05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/manan05/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/manan05/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -347,6 +348,7 @@
 | [0347-top-k-frequent-elements](https://github.com/manan05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/manan05/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/manan05/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/manan05/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/manan05/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/manan05/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
@@ -510,6 +512,7 @@
 | [0011-container-with-most-water](https://github.com/manan05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/manan05/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0455-assign-cookies](https://github.com/manan05/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/manan05/LeetCode/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/manan05/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1961-maximum-ice-cream-bars](https://github.com/manan05/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
@@ -695,6 +698,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/manan05/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/manan05/LeetCode/tree/master/0948-sort-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/manan05/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Combinatorics
