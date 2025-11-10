@@ -6,17 +6,17 @@ class Solution:
         for i in range(n):
             if i > 0 and nums[i - 1] == nums[i]:
                 continue
-            l = i + 1
-            r = n - 1
-            while l < r:
-                threeSum = nums[i] + nums[l] + nums[r]
+            left = i + 1
+            right = n - 1
+            while left < right:
+                threeSum = nums[i] + nums[left] + nums[right]
                 if threeSum == 0:
-                    res.append([nums[i], nums[l], nums[r]])
-                    l += 1
-                    while l < r and nums[l - 1] == nums[l]:
-                        l += 1
+                    res.append([nums[i], nums[left], nums[right]])
+                    left += 1
+                    while left < n and nums[left - 1] == nums[left]:
+                        left += 1
                 elif threeSum > 0:
-                    r -= 1
+                    right -= 1
                 else:
-                    l += 1
+                    left += 1
         return res
