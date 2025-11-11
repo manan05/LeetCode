@@ -11,16 +11,13 @@ class MyCircularQueue:
         self.left = ListNode(0, None, None)
         self.right = ListNode(0, None, self.left)
         self.left.next = self.right
-        
 
     def enQueue(self, value: int) -> bool:
         if self.isFull():
             return False
         curr = ListNode(value, self.right, self.right.prev)
-        # curr.prev = 
         self.right.prev.next = curr
         self.right.prev = curr
-
         self.space -= 1
         return True
 
@@ -43,10 +40,14 @@ class MyCircularQueue:
         return self.right.prev.val
 
     def isEmpty(self) -> bool:
-        return self.left.next == self.right
+        if self.left.next == self.right:
+            return True
+        return False
 
     def isFull(self) -> bool:
-        return self.space == 0
+        if self.space == 0:
+            return True
+        return False
 
 
 # Your MyCircularQueue object will be instantiated and called as such:
