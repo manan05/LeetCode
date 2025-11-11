@@ -153,6 +153,7 @@
 | [0342-power-of-four](https://github.com/manan05/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/manan05/LeetCode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manan05/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0796-reaching-points](https://github.com/manan05/LeetCode/tree/master/0796-reaching-points) |
 | [1013-fibonacci-number](https://github.com/manan05/LeetCode/tree/master/1013-fibonacci-number) |
 | [1090-armstrong-number](https://github.com/manan05/LeetCode/tree/master/1090-armstrong-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manan05/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
