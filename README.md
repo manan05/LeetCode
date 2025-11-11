@@ -249,6 +249,7 @@
 | [1184-car-pooling](https://github.com/manan05/LeetCode/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manan05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1280-diet-plan-performance](https://github.com/manan05/LeetCode/tree/master/1280-diet-plan-performance) |
+| [1306-minimum-absolute-difference](https://github.com/manan05/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/manan05/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -358,6 +359,7 @@
 | [1074-high-five](https://github.com/manan05/LeetCode/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/manan05/LeetCode/tree/master/1098-largest-unique-number) |
 | [1184-car-pooling](https://github.com/manan05/LeetCode/tree/master/1184-car-pooling) |
+| [1306-minimum-absolute-difference](https://github.com/manan05/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/manan05/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/manan05/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/manan05/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
