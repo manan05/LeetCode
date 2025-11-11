@@ -26,14 +26,13 @@ class Solution:
         prev = None
         minDiff = float('inf')
         res = []
-
         for i in range(len(freq)):
             if freq[i] == 1:
                 if prev is not None:
                     currDiff = i - prev
                     if currDiff < minDiff:
-                        minDiff = currDiff
                         res = [[prev - offset, i - offset]]
+                        minDiff = currDiff
                     elif currDiff == minDiff:
                         res.append([prev - offset, i - offset])
                 prev = i
