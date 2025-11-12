@@ -254,6 +254,7 @@
 | [1364-tuple-with-same-product](https://github.com/manan05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/manan05/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manan05/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/manan05/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manan05/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/manan05/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/manan05/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -409,6 +410,7 @@
 | [0838-design-linked-list](https://github.com/manan05/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/manan05/LeetCode/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/manan05/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1708-design-parking-system](https://github.com/manan05/LeetCode/tree/master/1708-design-parking-system) |
 | [2434-design-a-number-container-system](https://github.com/manan05/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Interactive
@@ -490,6 +492,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manan05/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/manan05/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/manan05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/manan05/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manan05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manan05/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/manan05/LeetCode/tree/master/3447-clear-digits) |
