@@ -115,6 +115,7 @@
 | [0225-implement-stack-using-queues](https://github.com/manan05/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manan05/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0362-design-hit-counter](https://github.com/manan05/LeetCode/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/manan05/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/manan05/LeetCode/tree/master/0860-design-circular-queue) |
 ## Counting
@@ -228,6 +229,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manan05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0346-moving-average-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manan05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0362-design-hit-counter](https://github.com/manan05/LeetCode/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/manan05/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manan05/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manan05/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -386,6 +388,7 @@
 | [0268-missing-number](https://github.com/manan05/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/manan05/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/manan05/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0362-design-hit-counter](https://github.com/manan05/LeetCode/tree/master/0362-design-hit-counter) |
 | [0374-guess-number-higher-or-lower](https://github.com/manan05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/manan05/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manan05/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -408,6 +411,7 @@
 | [0295-find-median-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/manan05/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/manan05/LeetCode/tree/master/0362-design-hit-counter) |
 | [0838-design-linked-list](https://github.com/manan05/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/manan05/LeetCode/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/manan05/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -695,6 +699,7 @@
 | [0295-find-median-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/manan05/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/manan05/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/manan05/LeetCode/tree/master/0362-design-hit-counter) |
 ## Merge Sort
 |  |
 | ------- |
