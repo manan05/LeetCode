@@ -24,7 +24,7 @@ class Solution:
                 else:
                     res.append(quad + [nums[l], nums[r]])
                     l += 1
-                    while l < r and nums[l] == nums[l + 1]:
+                    while l < r and nums[l] == nums[l - 1]:
                         l += 1
         kSum(4, 0, target)
         return res
