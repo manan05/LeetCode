@@ -1,8 +1,10 @@
 class Solution:
     def getSneakyNumbers(self, nums: List[int]) -> List[int]:
         res = []
-        count = Counter(nums)
-        for key, val in count.items():
-            if val == 2:
-                res.append(key)
+        mSet = set()
+        for i in nums:
+            if i in mSet:
+                res.append(i)
+            else:
+                mSet.add(i)
         return res
