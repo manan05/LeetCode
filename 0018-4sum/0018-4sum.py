@@ -1,16 +1,16 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
+        nums.sort()
         quad = []
         res = []
-        nums.sort()
 
-        def kSum(k, start, target):
+        def kSum(start, k, target):
             if k != 2:
                 for i in range(start, len(nums) - k + 1):
                     if i > start and nums[i] == nums[i - 1]:
                         continue
                     quad.append(nums[i])
-                    kSum(k - 1, i + 1, target - nums[i])
+                    kSum(i + 1, k - 1, target - nums[i])
                     quad.pop()
                 return
             l = start
@@ -26,5 +26,5 @@ class Solution:
                     l += 1
                     while l < r and nums[l] == nums[l - 1]:
                         l += 1
-        kSum(4, 0, target)
+        kSum(0, 4, target)
         return res
