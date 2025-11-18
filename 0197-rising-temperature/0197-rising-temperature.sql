@@ -9,4 +9,4 @@ with CTE as
 select id
 from CTE
 where temperature > PreviousTemp
-and recordDate = Date_add(PreviousDate, interval 1 year);
+and recordDate = Date_add(PreviousDate, interval 1 day);
