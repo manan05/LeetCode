@@ -773,6 +773,7 @@
 | [1278-product-price-at-a-given-date](https://github.com/manan05/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/manan05/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/manan05/LeetCode/tree/master/1541-top-travellers) |
+| [1683-invalid-tweets](https://github.com/manan05/LeetCode/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/manan05/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/manan05/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/manan05/LeetCode/tree/master/1827-invalid-tweets) |
