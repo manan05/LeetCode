@@ -9,14 +9,14 @@ class Solution:
             l = i + 1
             r = n - 1
             while l < r:
-                threeSum = nums[i] + nums[l] + nums[r]
-                if threeSum > 0:
+                currSum = nums[i] + nums[l] + nums[r]
+                if currSum > 0:
                     r -= 1
-                elif threeSum < 0:
+                elif currSum < 0:
                     l += 1
                 else:
                     res.append([nums[i], nums[l], nums[r]])
                     l += 1
-                    while l < n and nums[l - 1] == nums[l]:
+                    while l < n and nums[l] == nums[l - 1]:
                         l += 1
         return res
