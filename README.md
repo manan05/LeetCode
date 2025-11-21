@@ -769,6 +769,7 @@
 | [0607-sales-person](https://github.com/manan05/LeetCode/tree/master/0607-sales-person) |
 | [0613-shortest-distance-in-a-line](https://github.com/manan05/LeetCode/tree/master/0613-shortest-distance-in-a-line) |
 | [0620-not-boring-movies](https://github.com/manan05/LeetCode/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/manan05/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/manan05/LeetCode/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/manan05/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1158-market-analysis-i](https://github.com/manan05/LeetCode/tree/master/1158-market-analysis-i) |
