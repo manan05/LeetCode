@@ -767,6 +767,7 @@
 | [0595-big-countries](https://github.com/manan05/LeetCode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/manan05/LeetCode/tree/master/0607-sales-person) |
 | [0613-shortest-distance-in-a-line](https://github.com/manan05/LeetCode/tree/master/0613-shortest-distance-in-a-line) |
+| [1148-article-views-i](https://github.com/manan05/LeetCode/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/manan05/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1158-market-analysis-i](https://github.com/manan05/LeetCode/tree/master/1158-market-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/manan05/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
