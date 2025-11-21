@@ -765,6 +765,7 @@
 | [0577-employee-bonus](https://github.com/manan05/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/manan05/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/manan05/LeetCode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/manan05/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/manan05/LeetCode/tree/master/0607-sales-person) |
 | [0613-shortest-distance-in-a-line](https://github.com/manan05/LeetCode/tree/master/0613-shortest-distance-in-a-line) |
 | [1148-article-views-i](https://github.com/manan05/LeetCode/tree/master/1148-article-views-i) |
