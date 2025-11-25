@@ -5,9 +5,9 @@ class Solution:
         for num in unique:
             if num - 1 not in unique:
                 nxt = num + 1
-                currC = 1
+                currCount = 1
                 while nxt in unique:
+                    currCount += 1
                     nxt += 1
-                    currC += 1
-                maxCount = max(currC, maxCount)
+                maxCount = max(maxCount, currCount)
         return maxCount
