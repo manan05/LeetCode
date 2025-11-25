@@ -10,13 +10,13 @@ class Solution:
             r = n - 1
             while l < r:
                 currSum = nums[i] + nums[l] + nums[r]
-                if currSum > 0:
-                    r -= 1
-                elif currSum < 0:
+                if currSum < 0:
                     l += 1
+                elif currSum > 0:
+                    r -= 1
                 else:
                     res.append([nums[i], nums[l], nums[r]])
                     l += 1
-                    while l < n and nums[l] == nums[l - 1]:
+                    while l < r and nums[l - 1] == nums[l]:
                         l += 1
         return res
